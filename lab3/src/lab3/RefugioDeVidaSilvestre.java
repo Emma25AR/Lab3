@@ -14,6 +14,6 @@ package lab3;
 //estado de un porcentaje de 0.005 del monto total anual obtenido por el impuesto de
 //combustibles. En el caso de que el refugio sea de propiedad privada sus ingresos anuales son
 //totalmente de ayuda no gubernamental por empresas privadas.
-public class RefugioDeVidaSilvestre extends{
+public abstract class RefugioDeVidaSilvestre extends entradasP{
     
 }

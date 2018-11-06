@@ -7,9 +7,8 @@ package lab3;
 
 /**
  *
- * @author Estudiante
+ * @author usuario
  */
-public abstract class ParqueNacional extends entradasP {
-    
+public abstract class ReservaBiologica implements SubvencionEstado{
     
 }

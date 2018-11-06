@@ -9,6 +9,6 @@ package lab3;
  *
  * @author Estudiante
  */
-public interface SubvencionEstado {
+public interface SubvencionEstado{
     
 }
